@@ -6,7 +6,7 @@
 
 Building a basic and responsive landing page using 'Html, CSS'.
 
-#### [live demo](https://shehab267.github.io/codezilla-temp/)
+#### [live demo](https://shehab267.github.io/Codezilla-landing-page/)
 
 ## Acknowledgement
 
